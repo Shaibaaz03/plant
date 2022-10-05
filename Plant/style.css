@@ -1,0 +1,163 @@
+
+body {
+  background-color: #EEF7FB;
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+}
+
+.icon {
+  margin: 37px 0 0 72px;
+}
+
+.leaf {
+  height: 60px;
+  width: 60px;
+}
+
+.greenland {
+  height: 25px;
+  width: 140px;
+  margin: 0 0 15px 30px;
+}
+
+.nav-items {
+  display: flex;
+  margin-top: 60px;
+  margin-left: 140px;
+}
+
+.nav-btn {
+  font-size: 18px;
+  font-family: "inter";
+  font-weight: 400;
+  width: auto;
+  height: 23px;
+  margin: 3px 25px 0 25px;
+  letter-spacing: 0.5px;
+}
+
+.nav-btn a {
+  text-decoration: none;
+  color: black;
+}
+
+h3{
+  font-family: "inter";
+}
+
+.nav-btn2 {
+  height: 32px;
+  width: 32px;
+  margin-left: 20px;
+}
+
+.nav-btn2 a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-btn3 {
+  height: 24px;
+  width: 24px;
+  margin-left: 40px;
+  margin-top: 5px;
+}
+
+.nav-btn3 a {
+  text-decoration: none;
+  color: black;
+}
+
+.header {
+  font-family: "inter";
+  font-weight: 900;
+  font-size: 34px;
+  width: 350px;
+  line-height: 46px;
+  margin: 100px 0 0 80px;
+}
+
+.head-p {
+  font-family: "inter";
+  font-weight: 500;
+  font-size: 18.0303px;
+  line-height: 29px;
+  width: 600px;
+  margin: 20px 0 0 80px;
+}
+
+.cards {
+  display: flex;
+  overflow: hidden;
+}
+
+.card1 {
+  position: absolute;
+  width: 420px;
+  height: 520px;
+  margin: -160px 0 0 -70px;
+}
+
+.card2 {
+  width: 425px;
+  height: 500px;
+  margin-left: -200px;
+}
+
+.card3 {
+  width: 425px;
+  height: 500px;
+  margin-left: 450px;
+}
+
+.card4 {
+  width: 425px;
+  height: 500px;
+  margin-left: -20px;
+}
+
+.big-card {
+  width: 430px;
+  height: 500px;
+  background-color: #fff;
+  position: absolute;
+  margin: -35px 0 0 660px;
+  border-radius: 18px;
+  box-shadow: -1.5px 4px 35px rgba(0, 0, 0, 0.15);
+}
+
+.big-title {
+  position: absolute;
+  font-family: "inter";
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 48px;
+  letter-spacing: 0.4rem;
+  margin: 250px 0 0 70px;
+}
+
+.big-card a {
+  color: black;
+}
+
+.subtitle {
+  position: absolute;
+  font-family: "inter";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  margin: 370px 0 0 68px;
+}
+
+.read {
+  position: absolute;
+  margin: 450px 0 0 200px;
+}
+
+.page-btn {
+  text-align: center;
+  margin-bottom: 20px;
+}
